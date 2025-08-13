@@ -1,2 +1,2 @@
 # postcaptain
-Post-Captain Consulting, LLC public project library
+Post Captain Consulting Public Project Library
